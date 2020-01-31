@@ -36,7 +36,3 @@ hs_err_pid*
 
 # kde
 .directory
-
-.idea
-.iml
-target
